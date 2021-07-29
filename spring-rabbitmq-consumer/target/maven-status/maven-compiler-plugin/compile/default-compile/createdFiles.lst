@@ -1,0 +1,5 @@
+com/example/springrabbitmqconsumer/model/Product.class
+com/example/springrabbitmqconsumer/config/RabbitMQConfig.class
+com/example/springrabbitmqconsumer/SpringRabbitmqConsumerApplication.class
+com/example/springrabbitmqconsumer/consumer/Consumer.class
+com/example/springrabbitmqconsumer/model/Company.class
