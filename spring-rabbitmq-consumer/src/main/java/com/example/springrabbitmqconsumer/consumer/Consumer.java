@@ -11,4 +11,9 @@ public class Consumer {
     public void receivedCompany(Company company) {
         System.out.println("Received Company: " + company);
     }
+
+    @RabbitListener(queues = "${jsa.rabbitmq.queue}", containerFactory = "jsaFactory")
+    public void receivedCompany2(Company company) {
+        System.out.println("Received Company2: " + company);
+    }
 }

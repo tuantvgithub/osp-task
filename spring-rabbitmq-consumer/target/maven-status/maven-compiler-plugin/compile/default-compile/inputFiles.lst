@@ -1,5 +1,5 @@
-/home/tuan/Desktop/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/config/RabbitMQConfig.java
-/home/tuan/Desktop/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/model/Product.java
-/home/tuan/Desktop/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/model/Company.java
-/home/tuan/Desktop/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/SpringRabbitmqConsumerApplication.java
-/home/tuan/Desktop/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/consumer/Consumer.java
+/home/tuan/Desktop/osp-task/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/config/RabbitMQConfig.java
+/home/tuan/Desktop/osp-task/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/consumer/Consumer.java
+/home/tuan/Desktop/osp-task/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/model/Company.java
+/home/tuan/Desktop/osp-task/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/SpringRabbitmqConsumerApplication.java
+/home/tuan/Desktop/osp-task/spring-rabbitmq-consumer/src/main/java/com/example/springrabbitmqconsumer/model/Product.java
