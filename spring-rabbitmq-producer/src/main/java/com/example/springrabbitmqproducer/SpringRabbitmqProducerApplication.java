@@ -29,6 +29,7 @@ public class SpringRabbitmqProducerApplication implements CommandLineRunner {
 		mac.setCompany(apple);
 
 		this.producer.sendCompany(apple);
+		this.producer.sendProduct(mac);
 
 	}
 
